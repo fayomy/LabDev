@@ -1,0 +1,8 @@
+@CHARSET "UTF-8";
+body {
+	padding-top: 60px;
+}
+.starter-templete{
+	padding: 40px 15px;
+	text-align: center;
+}
